@@ -1,0 +1,14 @@
+{
+  "id": 38,
+  "mode": "real",
+  "pair": "XRPUSDT",
+  "direction": -1,
+  "entry_ts": 1738072327,
+  "entry_type": "market",
+  "entry_price": 3.1559,
+  "initial_tp": 3.1385,
+  "initial_sl": 3.1748,
+  "exit_time": 1738073062,
+  "exit_type": "exit",
+  "pnl": 0.03479999999999972
+}

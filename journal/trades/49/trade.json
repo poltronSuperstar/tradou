@@ -1,0 +1,15 @@
+{
+  "id": 49,
+  "mode": "real",
+  "pair": "WIFUSDT",
+  "direction": -1,
+  "entry_ts": 1738163717,
+  "entry_type": "market",
+  "entry_price": 1.2349999999999999,
+  "initial_tp": 1.216,
+  "initial_sl": 1.253,
+  "exit_time": 1738164343,
+  "exit_type": "exit",
+  "exit_price": 1.216,
+  "pnl": 2.2169199999999893
+}

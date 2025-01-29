@@ -1,0 +1,14 @@
+{
+  "id": 36,
+  "mode": "real",
+  "pair": "SOLUSDT",
+  "direction": 1,
+  "entry_ts": 1738070269,
+  "entry_type": "market",
+  "entry_price": 237.76,
+  "initial_tp": 238.82,
+  "initial_sl": 236.57,
+  "exit_time": 1738070805,
+  "exit_type": "exit",
+  "pnl": 0.017160000000000338
+}

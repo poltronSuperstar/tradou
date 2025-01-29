@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "40d549ba09dee279",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c5158c31f6274cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c021206bda79d4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "trades/39/notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "notes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b6ee69cf5e209fe6",
+    "type": "split",
+    "children": [
+      {
+        "id": "66faee6fdc2e2984",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69000e875f125dae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2b16c32f91ee5fd9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fd651174ea349afb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "574af69ef5b2fea5",
+    "type": "split",
+    "children": [
+      {
+        "id": "586fe1a912812928",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e2b9b6dd99ffcab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "trades/39/notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for notes"
+            }
+          },
+          {
+            "id": "92adc1eaea6e52b7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "trades/39/notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from notes"
+            }
+          },
+          {
+            "id": "9263b7032a698129",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7709a50287d66468",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "trades/39/notes.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of notes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "69000e875f125dae",
+  "lastOpenFiles": [
+    "trades/50/images/15m_exit.png",
+    "trades/50/images/4h_exit.png",
+    "trades/50/images/8h_exit.png",
+    "trades/50/images/1m_exit.png",
+    "trades/50/images/1h_exit.png",
+    "trades/50/images/30m_exit.png",
+    "trades/50/images/10s_exit.png",
+    "trades/50/images/5m_exit.png",
+    "trades/50/images/30s_exit.png",
+    "trades/50/images/15m_entry.png",
+    "trades/50/images/8h_entry.png",
+    "trades/50/notes.md",
+    "trades/50/trade.json",
+    "trades/50/images",
+    "trades/50",
+    "trades/49/notes.md",
+    "trades/49/trade.json",
+    "trades/49/images",
+    "trades/49",
+    "trades/48/notes.md",
+    "trades/48/trade.json",
+    "trades/48/images",
+    "trades/48",
+    "trades/47/notes.md",
+    "trades/47/trade.json",
+    "trades/46/notes.md",
+    "trades/45/notes.md",
+    "trades/44/notes.md"
+  ]
+}

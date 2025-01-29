@@ -1,0 +1,14 @@
+{
+  "id": 12,
+  "mode": "paper",
+  "pair": "XRPUSDT",
+  "direction": -1,
+  "entry_ts": 1737728690,
+  "entry_type": "market",
+  "entry_price": 3.1863,
+  "initial_tp": 3.16877535,
+  "initial_sl": 3.2022315,
+  "exit_time": 1737729193,
+  "exit_type": "tp",
+  "pnl": 21.897585161309053
+}
